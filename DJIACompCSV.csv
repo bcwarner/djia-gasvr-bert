@@ -1,0 +1,40 @@
+﻿Company,Search Term,End,Start,Repl,Ticker,Source
+3M,3M Company,data_end,data_start,,MMM,https://us.spindices.com/images/indexology-microsite/spdji-the-changing-djia.jpg
+American Express,AXP,data_end,data_start,,AXP,
+Apple,Apple Inc.,data_end,3/19/2015,AT&T,AAPL,https://www.cnbc.com/2015/03/06/apple-to-replace-att-in-the-dow-jones-industrial-average.html
+Boeing,Boeing Company,data_end,data_start,,BA,
+Caterpillar,Caterpillar Inc.,data_end,data_start,,CAT,
+Chevron,Chevron Corporation,data_end,data_start,,CVX,
+Cisco Systems,Cisco Systems Inc.,data_end,6/8/2009,N/A,CSCO,https://www.wired.com/2009/06/cisco-to-be-added-to-the-dow-on-june-8/
+Coca-Cola,Coca-Cola,data_end,data_start,,KO,
+Dow,Dow Chemical,data_end,3/20/2019,DowDuPont,DOW,Earliest quote on NYSE
+ExxonMobil,ExxonMobil Corporation,data_end,data_start,,XOM,
+Walgreens Boots Alliance,Walgreens Boots Alliance,data_end,6/26/2018,General Electric,WBA,https://www.cnbc.com/2018/06/19/walgreens-replacing-ge-on-the-dow.html
+Goldman Sachs Group,Goldman Sachs Group,data_end,9/23/2013,Bank of America/Altria Group,GS,https://www.usatoday.com/story/money/markets/2013/09/10/changes-dow-jones-industrial-average/2791723/
+Home Depot,Home Depot Inc.,data_end,data_start,,HD,
+IBM,IBM,data_end,data_start,,IBM,
+Intel,Intel Corporation,data_end,data_start,,INTC,
+Johnson & Johnson,Johnson & Johnson,data_end,data_start,,JJ,
+JPMorgan Chase,JPMorgan,data_end,data_start,,JPM,
+McDonald's,McDonald's,data_end,data_start,,MCD,
+Merck,Merck & Company,data_end,data_start,,MRK,
+Microsoft,Microsoft,data_end,data_start,,MSFT,
+Nike,Nike Inc.,data_end,9/23/2013,Alcoa,NKE,https://www.usatoday.com/story/money/markets/2013/09/10/changes-dow-jones-industrial-average/2791723/
+Pfizer,Pfizer Inc.,data_end,data_start,,PFE,
+Procter & Gamble,Procter & Gamble,data_end,data_start,,PG,
+The Travelers Companies,TRV,data_end,6/1/2009,Citigroup,TRV,https://www.wsj.com/articles/SB124386244318072033
+UnitedHealth Group Inc.,UnitedHealth Group,data_end,9/24/2012,Kraft,UNH,https://www.courant.com/business/hc-xpm-2012-09-24-hc-haar-unitedhealth-dow-jones-20120924-story.html
+United Technologies,United Technologies,data_end,data_start,,UTX,
+Verizon,Verizon,data_end,data_start,,VZ,
+Visa,Visa Inc.,data_end,9/23/2013,Hewlett-Packard,V,https://www.usatoday.com/story/money/markets/2013/09/10/changes-dow-jones-industrial-average/2791723/
+Walmart,Walmart,data_end,data_start,,WMT,
+Walt Disney,Disney,data_end,data_start,,DIS,
+AT&T,AT&T,3/19/2015,data_start,,T,
+DowDuPont,DowDuPont,3/20/2019,9/1/2017,DuPont,DWDP,https://www.wsj.com/articles/questions-remain-as-dow-and-dupont-become-dowdupont-1504269341
+General Electric,General Electric Company,6/26/2018,data_start,,GE,
+Bank of America,Bank of America Corporation,9/23/2013,data_start,,BAC,
+Alcoa,Alcoa,9/23/2013,data_start,,AA,
+Citigroup,Citigroup,6/1/2009,data_start,,C,
+Kraft,Kraft,9/24/2012,data_start,,KRFT,
+Hewlett-Packard,Hewlett-Packard,9/23/2013,data_start,,HPQ,
+DuPont,DuPont,9/1/2017,data_start,,DD,
