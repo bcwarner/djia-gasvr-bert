@@ -1,5 +1,5 @@
-# csci330-project
-This is Ben Warner and Aaron Crook's CSCI 330 F2019 term project, which was updated in April 2020. Here is an outline of the imporant scripts/files:
+# Predicting the DJIA with news headlines and historic data using hybrid genetic algorithm/support vector regression and BERT
+This is the repository for our model that was submitted to the BigData 2020 conference. Here is an outline of the imporant scripts/files:
 
 ### `NYTData.py`
 Running this script will repeatedly query the NYT API for the articles within a given date range specified within the file for the search terms specified within a CSV (ie `DJIACompCSV.csv`). Writes the results to a specified destination. On several instances, there were times we had to merge the files due to interruptions. The best output is `DJIAOutfComplete2.dat`
